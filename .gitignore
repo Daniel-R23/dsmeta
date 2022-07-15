@@ -200,3 +200,11 @@ sketch
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij,visualstudiocode,java,maven,react
+backend/dsmeta.iml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/jarRepositories.xml
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/.gitignore
